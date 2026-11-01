@@ -125,3 +125,9 @@ operation-branchlink-static-routing/
 11. Project Scope
 
 This project is a simulated networking implementation developed in Cisco Packet Tracer. It demonstrates fundamental enterprise networking and static routing concepts in a controlled lab environment.
+
+12. Project Screenshots
+
+The following screenshots demonstrate the network topology, router configurations, static routing implementation, routing table verification, and end-to-end connectivity testing.
+
+"View All Project Screenshots" (packet-tracer/screenshots/)
